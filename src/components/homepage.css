@@ -1,0 +1,55 @@
+.main-div{
+    width: 30%;
+    height: 650px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border: 3px solid rgb(204, 204, 204);
+    border-radius: 8%;
+    background-color: RGB(127, 205, 205);
+}
+
+#header{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: 2px underline;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+}
+
+#input-name{
+    width: 6cm;
+    border-radius: 5px;
+    border: 1px solid rgb(160, 252, 252);
+}
+
+.mid-div{
+    margin-top: 5px;
+  color: blue;
+  height: 510px;
+  border: 0.1px solid rgb(255, 255, 255);
+  border-radius: 20%;
+}
+
+#p-list{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: 1px underline;
+  -webkit-text-stroke: 1.5px rgb(0, 0, 0);
+}
+
+#st-btn{   
+color: blue;
+cursor: pointer;
+margin-right: 5px;
+margin-top: 5px;
+height: 35px;
+width: 60px;
+border-radius: 30%;
+}
+
+table, th, tr {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+  }
